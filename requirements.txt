@@ -6,4 +6,3 @@ numpy
 nltk
 python-multipart
 joblib
-pickle
