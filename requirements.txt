@@ -5,4 +5,5 @@ pandas
 numpy
 nltk
 python-multipart
+joblib
 pickle
